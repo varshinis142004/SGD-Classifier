@@ -64,7 +64,8 @@ print(cf)
 ```
 
 ## Output:
-![Screenshot 2024-10-09 134312](https://github.com/user-attachments/assets/01891d52-ca15-40fa-9627-24b805d07c9c)
+![image](https://github.com/user-attachments/assets/b877d194-873a-4ba5-82cc-b34270bb2cee)
+
 
 
 ## Result:
